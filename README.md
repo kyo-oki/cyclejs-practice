@@ -2,23 +2,25 @@
 
 # Structure
 
+```text
 cyclejs-practice/
 ├── client
-│ ├── component
-│ ├── gql
-│ └── main.ts
+│   ├── component
+│   ├── gql
+│   └── main.ts
 ├── docker
 ├── generated
-│ └── prisma
+│   └── prisma
 ├── package-lock.json
 ├── package.json
 ├── prisma
-│ ├── dev.db
-│ └── schema.prisma
+│   ├── dev.db
+│   └── schema.prisma
 ├── README.md
 ├── server
-│ ├── domain
-│ ├── gql
-│ ├── index.ts
-│ └── infra
+│   ├── domain
+│   ├── gql
+│   ├── index.ts
+│   └── infra
 └── tsconfig.json
+```
